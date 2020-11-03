@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/camel-db.iml
+/.idea/
